@@ -14,10 +14,9 @@ For accessing data please go to [data.ldaca.edu.au](https://data.ldaca.edu.au)
 
 ### Corpora Links
 
-TODO: replace all links with ldaca links
+<!-- TODO: replace all links with ldaca links -->
 
-- Coming soon - Auslit
-<!-- - [AusLit](https://ausnc.org.au/corpora/austlit) -->
+- [AusLit](https://ausnc.org.au/corpora/austlit)
 - Coming soon - ACE
 <!-- - [ACE](https://ausnc.org.au/corpora/ace) -->
 - Coming soon - ART

@@ -6,8 +6,7 @@ title: "Corpora"
 <img src="/ausnc-logo_250px.png" title="AusNC Logo" class="home_image"/>
 <br/>
 {{< /raw >}}
-- Coming soon - Auslit
-<!-- - [AusLit](https://ausnc.org.au/corpora/austlit) -->
+- [AusLit](https://ausnc.org.au/corpora/austlit)
 - Coming soon - ACE
 <!-- - [ACE](https://ausnc.org.au/corpora/ace) -->
 - Coming soon - ART

@@ -16,7 +16,7 @@ For accessing data please go to [data.ldaca.edu.au](https://data.ldaca.edu.au)
 
 <!-- TODO: replace all links with ldaca links -->
 
-- [AusLit](https://ausnc.org.au/corpora/austlit)
+- [AusLit](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2CAustLit&_crateId=arcp%3A%2F%2Fname%2CAustLit)
 - Coming soon - ACE
 <!-- - [ACE](https://ausnc.org.au/corpora/ace) -->
 - Coming soon - ART

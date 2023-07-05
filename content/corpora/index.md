@@ -21,5 +21,4 @@ title: "Corpora"
 <!-- - [Mitchell and Delbridge](https://ausnc.org.au/corpora/md) -->
 - Coming soon - Monash
 <!-- - [Monash](https://ausnc.org.au/corpora/monash) -->
-- Coming soon - The La Trobe Corpus of Spoken Australian English
-<!-- - [The La Trobe Corpus of Spoken Australian English](https://ausnc.org.au/corpora/latrobecsause) -->
+- [The La Trobe Corpus of Spoken Australian English](https://data.ldaca.edu.au/collection?id=arcp://name,the-la-trobe-corpus-of-spoken-australian-english&_crateId=arcp%3A%2F%2Fname%2Cthe-la-trobe-corpus-of-spoken-australian-english)

@@ -8,8 +8,9 @@
 
 ## Hi! Australian National Corpus has moved
 
-The Australian National Corpus (AusNC) was a discovery service that collated and provided access to examples of Australian English text, transcriptions, audio and audio-visual materials. The service was managed by Griffith University beginning 2012 until mid-2023 when the site was decommissioned. From 2023, AusNC data are being made available as individual collections (listed below) through the [Language Data Commons of Australia (LDaCA) data portal](https://data.ldaca.edu.au) .
+The Australian National Corpus (AusNC) was a discovery service that collated and provided access to examples of Australian English text, transcriptions, audio and audio-visual materials. The service was managed by Griffith University beginning 2012 until mid-2023 when the site was decommissioned. From 2023, AusNC data are being made available as individual collections (listed below) through the [Language Data Commons of Australia (LDaCA) data portal](https://data.ldaca.edu.au).
 
+[Read more](https://www.ldaca.edu.au/news/posts/ausnc/) about the relationship between Australian National Corpus and the Language Data Commons of Australia.
 
 ### Corpora Links
 

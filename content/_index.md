@@ -22,7 +22,7 @@ The Australian National Corpus (AusNC) was a discovery service that collated and
 - [Corpus of Oz Early English](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Chdl10.26180~23961609&_crateId=arcp%3A%2F%2Fname%2Chdl10.26180~23961609)
 - Coming soon - Griffith Corpus of Spoken Australian English
 <!-- - [Griffith Corpus of Spoken Australian English](https://ausnc.org.au/corpora/gcsause) -->
-- [International Corpus of English (Aus)](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Cdoi10.25949%252F24769173.v1&_crateId=arcp%3A%2F%2Fname%2Cdoi10.25949%252F24769173.v1)
+- [International Corpus of English (Aus)](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Chdl10.25949~24769173.v1&_crateId=arcp%3A%2F%2Fname%2Chdl10.25949~24769173.v1)
 - [The speech of Australian adolescents: research data and recordings collected by A.G. Mitchell and Arthur Delbridge in 1959 and 1960](https://data.ldaca.edu.au/collection?id=arcp%3A%2F%2Fname%2Cdoi10.25910%252Fjkwy-wk76&_crateId=arcp%3A%2F%2Fname%2Cdoi10.25910%252Fjkwy-wk76)
 - Coming soon - Monash Corpus of English
 <!-- - [Monash Corpus of English](https://ausnc.org.au/corpora/monash) -->

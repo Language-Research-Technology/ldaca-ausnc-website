@@ -7,5 +7,5 @@ title: "Monash"
 <br/>
 {{< /raw >}}
 
-- Coming soon - Monash Corpus of English
+Coming soon - Monash Corpus of English
 <!-- - [Monash Corpus of English](https://ausnc.org.au/corpora/monash) -->

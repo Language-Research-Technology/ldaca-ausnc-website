@@ -4,13 +4,6 @@ title = 'LDaCA'
 theme = "LoveIt"
 enableRobotsTXT = true
 
-
-# Author config
-[author]
-  name = "Language Data Commons of Australia"
-  email = "info@ldaca.edu.au"
-  link = ""
-
 [params]
   title = "LDaCA"
   # website description for RSS, SEO, Open Graph and Twitter Cards
@@ -19,6 +12,11 @@ enableRobotsTXT = true
   images = ["/logo.png"]
   # error page image website, place image in static folder if required add a image404 class in _custom.scss
   image404 = '/alpaca.svg'
+# Author config
+[params.author]
+  name = "Language Data Commons of Australia"
+  email = "info@ldaca.edu.au"
+  link = ""
 
 # Header config
   [params.header]
